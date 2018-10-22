@@ -28,6 +28,9 @@
         <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
+        <a class="nav-link" href="/pdf/Securities_Summary.pdf" download>Download Brochure</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link" href="contact">Contact Us</a>
       </li>
       <li class="nav-item dropdown">
