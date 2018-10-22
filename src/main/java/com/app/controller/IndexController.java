@@ -24,4 +24,19 @@ public class IndexController {
 		return "next";
 	}
 
+	
+	@RequestMapping("/contact")
+	public String contact(ModelMap model) {
+		return "contact";
+	}
+	
+	@RequestMapping("/specifications")
+	public String specifications(ModelMap model) {
+		return "specifications";
+	}
+	
+	@RequestMapping("/floorPlans")
+	public String floorPlans(ModelMap model) {
+		return "floorPlans";
+	}
 }
