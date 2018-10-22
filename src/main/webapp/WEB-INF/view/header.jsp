@@ -28,9 +28,6 @@
         <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/pdf/Securities_Summary.pdf" download>Download Brochure</a>
-      </li>
-      <li class="nav-item">
         <a class="nav-link" href="contact">Contact Us</a>
       </li>
       <li class="nav-item dropdown">
@@ -44,6 +41,9 @@
           <a class="dropdown-item" href="#">Amenities</a>
           <a class="dropdown-item" href="specifications">Specifications</a>
         </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/pdf/brochure/brochure.pdf" download>Download Brochure</a>
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
