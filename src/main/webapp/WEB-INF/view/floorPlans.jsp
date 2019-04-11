@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<title>Gallery</title>
 <meta name="viewport"
 	content="width=device-width, initial-scale=1, shrink-to-fit=no">
 </head>
@@ -19,23 +20,24 @@
   margin-bottom: 15px;
 }
 </style>
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 <body>
 	<jsp:directive.include file="header.jsp" />
 	<br/>
 <main role="main">
+
+
       <div class="album py-5">
         <div class="container">
-
+<h3>Gallery </h3>
           <div class="row">
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
                 <!-- <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap"> -->
                 <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
-                   data-image="https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                   data-image="/img/slider/2.jpg"
                    data-target="#image-gallery">
                     <img class="img-thumbnail"
-                         src="https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                         src="/img/slider/2.jpg"
                          alt="Another alt text">
                 </a>
                 <div class="card-body">
@@ -47,10 +49,10 @@
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
                 <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
-                   data-image="https://images.pexels.com/photos/158971/pexels-photo-158971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                   data-image="/img/slider/3.jpg"
                    data-target="#image-gallery">
                     <img class="img-thumbnail"
-                         src="https://images.pexels.com/photos/158971/pexels-photo-158971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                         src="/img/slider/3.jpg"
                          alt="Another alt text">
                 </a>
                 <div class="card-body">
@@ -63,10 +65,10 @@
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
                 <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
-                   data-image="https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                   data-image="/img/slider/4.jpg"
                    data-target="#image-gallery">
                     <img class="img-thumbnail"
-                         src="https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                         src="/img/slider/4.jpg"
                          alt="Another alt text">
                 </a>
                 <div class="card-body">
@@ -79,10 +81,10 @@
               <div class="card mb-4 box-shadow">
                 <!-- <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap"> -->
                 <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
-                   data-image="https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                   data-image="/img/slider/5.jpg"
                    data-target="#image-gallery">
                     <img class="img-thumbnail"
-                         src="https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                         src="/img/slider/5.jpg"
                          alt="Another alt text">
                 </a>
                 <div class="card-body">

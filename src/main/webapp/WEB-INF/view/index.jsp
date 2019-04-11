@@ -1,17 +1,39 @@
 <!DOCTYPE html>
-<html lang="en">
- <head>
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	 <title>Welcome</title>
-	 
-	<link href="bootstrap/4.0.0/css/carousel/carousel.css" rel="stylesheet">
-	
- </head>
+<html lang="en" class="section-bg">
+<head>
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Shubham Bungalows</title>
+<style type="text/css">
+i.circle {
+	background: gray;
+	border-radius: 50%;
+	box-sizing: content-box;
+	display: inline-block;
+	font-size: 3.42857rem;
+	height: 3.42857rem;
+	padding: 30px;
+	width: 3.42857rem;
+	-moz-transition: color 0.2s linear;
+	-o-transition: color 0.2s linear;
+	-webkit-transition: color 0.2s linear;
+	transition: color 0.2s linear;
+}
+
+i.circle:hover {
+	color: yellow;
+}
+</style>
+<!-- <link href="bootstrap/4.0.0/css/style.css" rel="stylesheet"> -->
+<link href="bootstrap/4.0.0/css/carousel/carousel.css" rel="stylesheet">
+
+
+</head>
 
 <body>
 	<jsp:directive.include file="header.jsp" />
 
-	<main role="main">
+	<main role="main" class="section-bg">
 
 	<div id="myCarousel" class="carousel slide" data-ride="carousel">
 		<ol class="carousel-indicators">
@@ -21,10 +43,8 @@
 		</ol>
 		<div class="carousel-inner">
 			<div class="carousel-item active">
-				<img class="first-slide"
-					src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
-					alt="First slide">
-				<div class="container">
+				<img class="first-slide" src="/img/slider/1.jpg" alt="First slide">
+				<!-- <div class="container">
 					<div class="carousel-caption text-left">
 						<h1>Example headline.</h1>
 						<p>Cras justo odio, dapibus ac facilisis in, egestas eget
@@ -35,13 +55,11 @@
 								up today</a>
 						</p>
 					</div>
-				</div>
+				</div> -->
 			</div>
 			<div class="carousel-item">
-				<img class="second-slide"
-					src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
-					alt="Second slide">
-				<div class="container">
+				<img class="second-slide" src="/img/slider/2.jpg" alt="Second slide">
+				<!-- <div class="container">
 					<div class="carousel-caption">
 						<h1>Another example headline.</h1>
 						<p>Cras justo odio, dapibus ac facilisis in, egestas eget
@@ -52,13 +70,11 @@
 								more</a>
 						</p>
 					</div>
-				</div>
+				</div> -->
 			</div>
 			<div class="carousel-item">
-				<img class="third-slide"
-					src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
-					alt="Third slide">
-				<div class="container">
+				<img class="third-slide" src="/img/slider/3.jpg" alt="Third slide">
+				<!-- <div class="container">
 					<div class="carousel-caption text-right">
 						<h1>One more for good measure.</h1>
 						<p>Cras justo odio, dapibus ac facilisis in, egestas eget
@@ -69,7 +85,7 @@
 								gallery</a>
 						</p>
 					</div>
-				</div>
+				</div> -->
 			</div>
 		</div>
 		<a class="carousel-control-prev" href="#myCarousel" role="button"
@@ -80,15 +96,113 @@
 			aria-hidden="true"></span> <span class="sr-only">Next</span>
 		</a>
 	</div>
-	
-	
-      <!-- Marketing messaging and featurettes
+
+
+	<!-- Marketing messaging and featurettes
+      ================================================== --> <!-- Wrap the rest of the page in another container to center all the content. -->
+
+	<div class="container marketing">
+
+		<div class="row"></div>
+		<!-- Three columns of text below the carousel -->
+		<div class="row">
+			<div class="col-lg-4">
+				<!-- <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140"> -->
+				<a href="/" style="color:black;"><i class='fas fa-info circle'></i></a>
+				<h2>About Us</h2>
+				<p>Shubham Bungalows is a project by Shiv Corporation. It is a
+					residential property in Kadi which is centrally located with
+					proximity to major business, educational and entertainments hubs.</p>
+				<!-- <p>
+					<a class="btn btn-secondary" href="#" role="button">View
+						details &raquo;</a>
+				</p> -->
+			</div>
+			<!-- /.col-lg-4 -->
+			<div class="col-lg-4">
+				<a href="specifications" style="color:black;"><i class="fas fa-file-alt circle"></i></a>
+				<h2>Specification</h2>
+				<p>We provide best in class Plaster works, Flooring & tiling,
+					Doors & windows, Plumbing & Sanitation, Kitchen.</p>
+				<!-- <p>
+					<a class="btn btn-secondary" href="#" role="button">View
+						details &raquo;</a>
+				</p> -->
+			</div>
+			<!-- /.col-lg-4 -->
+			<div class="col-lg-4">
+				<a href="contact" style="color:black;"><i class="fas fa-map-marker-alt circle"></i></a>
+				<h2>Location</h2>
+				<p>Best Location in Kadi. Easy excess to school, airport, main
+					road and market.</p>
+				<!-- <p>
+					<a class="btn btn-secondary" href="#" role="button">View
+						details &raquo;</a>
+				</p> -->
+			</div>
+			<!-- /.col-lg-4 -->
+		</div>
+		<!-- /.row -->
+
+
+
+		<!--==========================
+      About Us Section
+    ============================-->
+<!--  Not Required     
+		<section id="about">
+
+			<div class="container">
+				<div class="row">
+
+					<div class="col-md-6">
+						<div class="">
+							<img class="img-fluid" src="/img/slider/1.jpg" alt="">
+						</div>
+					</div>
+
+					<div class="col-md-6">
+						<div class="about-content">
+							<h2>About Us</h2>
+							<h3>Odio sed id eos et laboriosam consequatur eos earum
+								soluta.</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+								sed do eiusmod tempor incididunt ut labore et dolore magna
+								aliqua.</p>
+							<p>Aut dolor id. Sint aliquam consequatur ex ex labore. Et
+								quis qui dolor nulla dolores neque. Aspernatur consectetur omnis
+								numquam quaerat. Sed fugiat nisi. Officiis veniam molestiae. Et
+								vel ut quidem alias veritatis repudiandae ut fugit. Est ut
+								eligendi aspernatur nulla voluptates veniam iusto vel quisquam.
+								Fugit ut maxime incidunt accusantium totam repellendus eum
+								error. Et repudiandae eum iste qui et ut ab alias.</p>
+							<ul>
+								<li><i class="ion-android-checkmark-circle"></i> Ullamco
+									laboris nisi ut aliquip ex ea commodo consequat.</li>
+								<li><i class="ion-android-checkmark-circle"></i> Duis aute
+									irure dolor in reprehenderit in voluptate velit.</li>
+								<li><i class="ion-android-checkmark-circle"></i> Ullamco
+									laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+									irure dolor in reprehenderit in voluptate trideta
+									storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</section>
+		<!-- #about -->
+		
+		
+		<!-- Marketing messaging and featurettes
       ================================================== -->
-      <!-- Wrap the rest of the page in another container to center all the content. -->
+		<!-- Wrap the rest of the page in another container to center all the content. -->
 
-      <div class="container marketing">
+<!--  
+		<div class="container marketing">
 
-<!-- 
+			<!-- 
         Three columns of text below the carousel
         <div class="row">
           <div class="col-lg-4">
@@ -112,53 +226,14 @@
         </div>/.row
 
  -->
-        <!-- START THE FEATURETTES -->
 
-        <hr class="featurette-divider">
 
-        <div class="row featurette">
-          <div class="col-md-7">
-            <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
-            <p class="lead">
-            	Maple Tree is yet another premium luxurious project by Ganesh Housing. It offers spacious 3 BHK and 4 BHK homes, located at one of the most sought-after and upscale locations of Ahmedabad, which is not just centrally located but is strategically accessible to all major business, leisure, educational and entertainment hubs of the city.
-            </p>
-          </div>
-          <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
-          </div>
-        </div>
+			<hr class="featurette-divider">
 
-        <hr class="featurette-divider">
+			<!-- /END THE FEATURETTES -->
 
-        <div class="row featurette">
-          <div class="col-md-7 order-md-2">
-            <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-          </div>
-          <div class="col-md-5 order-md-1">
-            <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
-          </div>
-        </div>
-
-        <hr class="featurette-divider">
-
-        <div class="row featurette">
-          <div class="col-md-7">
-            <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-          </div>
-          <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
-          </div>
-        </div>
-
-        <hr class="featurette-divider">
-
-        <!-- /END THE FEATURETTES -->
-
-      </div><!-- /.container -->
-	
-
-	<jsp:directive.include file="footer.jsp" /> </main>
+		</div>
+		</main>
+	<!-- /.container --> <jsp:directive.include file="footer.jsp" /> 
 </body>
 </html>

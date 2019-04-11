@@ -3,6 +3,7 @@
 <head>
 <meta name="viewport"
 	content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>Specifications</title>
 </head>
 <body>
 	<jsp:directive.include file="header.jsp" />
@@ -20,9 +21,10 @@
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
       <div class="card-body">
 		        <ul class="text text-muted">
-		  			<li>Lorem ipsum</li>
-		  			<li>Phasellus iaculis</li>
-		  			<li>Nulla volutpat</li>
+		  			<li>External Plaster - Texture with Double Coat Plaster.</li>
+		  			<li>Internal Plaster - Single Coat Mala Plaster.</li>
+		  			<li>Oil painted doors & windows.</li>
+		  			<li>Internal Color - Putty Finish, External Color - Water Proof.</li>
 				</ul>
       </div>
     </div>
@@ -37,7 +39,10 @@
     </div>
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
       <div class="card-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+        <ul class="text text-muted">
+		  			<li>Vitrified / Porcelain Tile in Hall, Kitchen & Bedroom. </li>
+		  			<li>Glaz Tile & Dado Up to Lintel Level in Toilets.</li>
+				</ul>
       </div>
     </div>
   </div>
@@ -51,8 +56,12 @@
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-      </div>
+      <ul class="text text-muted">
+			<li>Decorative Main Door.</li>
+			<li>Internal Doors - Flush Door</li>
+			<li>Safety grill with windows.</li>
+	 </ul>
+	  </div>
     </div>
   </div>
     <div class="card">
@@ -66,12 +75,48 @@
     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
       <div class="card-body">
 		        <ul class="text text-muted">
-		  			<li>Concealed copper wiring with modular switches, MCB Distribution panel</li>
+		  			<li>Concealed copper wiring.</li>
+				</ul>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingFive">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+          Kitchen
+        </button>
+      </h5>
+    </div>
+    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+      <div class="card-body">
+		        <ul class="text text-muted">
+		  			<li>Granite Platform in Kitchen.</li>
+		  			<li>S.S. Kitchen Sink.</li>
+		  			<li>Color Glaz Tile upto Lintel Level.</li>
 				</ul>
       </div>
     </div>
   </div>
   
+  <div class="card">
+    <div class="card-header" id="headingSix">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+          Plumbing
+        </button>
+      </h5>
+    </div>
+    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
+      <div class="card-body">
+		        <ul class="text text-muted">
+		  			<li>Concealed plumbing with best quality P.V.C pipe. </li>
+				</ul>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
 </div>
 	</div>
       	<jsp:directive.include file="footer.jsp" />
