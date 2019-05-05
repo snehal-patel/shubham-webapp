@@ -124,13 +124,14 @@ footer h5.widgetheading {
               
               <address>
 					<strong>Shubham Bungalows</strong><br>
-					Somestreet 200 VW, Suite Village A.001<br>
+					Near Prasang party plot,<br>
+					Karan Nagar Road,<br>
 					Kadi, Gujarat.
 				</address>
 
 				<p>
 					<i class="fas fa-phone"></i> +91 9825577356<br/>
-					<i class="fas fa-envelope"></i> email@domainname.com
+					<i class="fas fa-envelope"></i> navinpatel4811@gmail.com
 				</p>
 <!--               <address>
 							<strong>Eterna company Inc.</strong><br>
@@ -158,6 +159,16 @@ footer h5.widgetheading {
             </div>
           </div> -->
         </div>
+        
+        
+        <div class="row">
+          <div class="col-md-12">
+            <div class="widget">
+            <p><i><b>Disclaimer :</b> The documents and information displayed in this website are for reference purpose only and do not claim to be a legal document. Viewers should get in touch with our sales team for updated information.</i></p>
+            </div>
+          </div>
+  		</div>
+        
 	</div> 
 </footer> 
 

@@ -40,13 +40,14 @@
           <a class="dropdown-item" href="contact">Location</a>
           <a class="dropdown-item" href="floorPlans">Floor Plans</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Amenities</a>
+          <!-- <a class="dropdown-item" href="#">Amenities</a> -->
           <a class="dropdown-item" href="specifications">Specifications</a>
         </div>
       </li>
-      <li class="nav-item">
+      <!--  Uncomment beow line for brochure link -->
+      <!-- <li class="nav-item">
         <a class="nav-link" href="/pdf/brochure/brochure.pdf" download>Download Brochure</a>
-      </li>
+      </li> -->
     </ul>
     <!-- <form class="form-inline my-2 my-lg-0">
       <span class="navbar-text">+91 9525145214  |   perfection@gmail.com</span>

@@ -30,6 +30,23 @@
         <div class="container">
 <h3>Gallery </h3>
           <div class="row">
+          
+          <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <!-- <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap"> -->
+                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
+                   data-image="/img/slider/1.jpg"
+                   data-target="#image-gallery">
+                    <img class="img-thumbnail"
+                         src="/img/slider/1.jpg"
+                         alt="Another alt text">
+                </a>
+                <!-- <div class="card-body">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                </div> -->
+              </div>
+            </div>
+            
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
                 <!-- <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap"> -->
@@ -40,9 +57,9 @@
                          src="/img/slider/2.jpg"
                          alt="Another alt text">
                 </a>
-                <div class="card-body">
+                <!-- <div class="card-body">
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                </div>
+                </div> -->
               </div>
             </div>
             
@@ -55,9 +72,9 @@
                          src="/img/slider/3.jpg"
                          alt="Another alt text">
                 </a>
-                <div class="card-body">
+                <!-- <div class="card-body">
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                  </div>
+                  </div> -->
                 </div>
               </div>
             
@@ -71,9 +88,9 @@
                          src="/img/slider/4.jpg"
                          alt="Another alt text">
                 </a>
-                <div class="card-body">
+                <!-- <div class="card-body">
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                </div>
+                </div> -->
               </div>
             </div>
 
@@ -87,12 +104,66 @@
                          src="/img/slider/5.jpg"
                          alt="Another alt text">
                 </a>
-                <div class="card-body">
+                <!-- <div class="card-body">
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                </div> -->
+              </div>
+            </div>
+          </div>
+          
+          
+          <h3>Layout Plan </h3>
+          <div class="row">
+                      <!-- Layout  -->
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <!-- <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap"> -->
+                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
+                   data-image="/img/layout/A&CTYPE.jpg"
+                   data-target="#image-gallery">
+                    <img class="img-thumbnail"
+                         src="/img/layout/A&CTYPE.jpg"
+                         alt="Another alt text">
+                </a>
+                <div class="card-body">
+                  <p class="card-text">A & C Type</p>
                 </div>
               </div>
             </div>
             
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <!-- <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap"> -->
+                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
+                   data-image="/img/layout/B-TYPE.jpg"
+                   data-target="#image-gallery">
+                    <img class="img-thumbnail"
+                         src="/img/layout/B-TYPE.jpg"
+                         alt="Another alt text">
+                </a>
+                <div class="card-body">
+                  <p class="card-text">B Type</p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <!-- <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap"> -->
+                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
+                   data-image="/img/layout/LAYOUT-PLAN.jpg"
+                   data-target="#image-gallery">
+                    <img class="img-thumbnail"
+                         src="/img/layout/LAYOUT-PLAN.jpg"
+                         alt="Another alt text">
+                </a>
+                <div class="card-body">
+                  <p class="card-text">Layout Plan</p>
+                </div>
+              </div>
+            </div>
+          
           </div>
           
         </div>

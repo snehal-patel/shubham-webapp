@@ -21,10 +21,10 @@
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
       <div class="card-body">
 		        <ul class="text text-muted">
-		  			<li>External Plaster - Texture with Double Coat Plaster.</li>
-		  			<li>Internal Plaster - Single Coat Mala Plaster.</li>
+		        	<li>Internal Plaster - Single Coat Mala Plaster.</li>
+		  			<li>External Plaster - Double Coat Tippani Plaster.</li>
+		  			<li>Internal Color - Birla Putty, External Color - Water Proof Color.</li>
 		  			<li>Oil painted doors & windows.</li>
-		  			<li>Internal Color - Putty Finish, External Color - Water Proof.</li>
 				</ul>
       </div>
     </div>
@@ -40,8 +40,8 @@
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
       <div class="card-body">
         <ul class="text text-muted">
-		  			<li>Vitrified / Porcelain Tile in Hall, Kitchen & Bedroom. </li>
-		  			<li>Glaz Tile & Dado Up to Lintel Level in Toilets.</li>
+		  			<li>Vitrified porcelain tile in Drawing Hall, Dining, Kitchen & Bedroom. </li>
+		  			<li>Glaz tile up to lintel level in Toilets.</li>
 				</ul>
       </div>
     </div>
@@ -50,34 +50,18 @@
     <div class="card-header" id="headingThree">
       <h5 class="mb-0">
         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Doors
+          Doors & Windows 
         </button>
       </h5>
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
       <ul class="text text-muted">
-			<li>Decorative Main Door.</li>
-			<li>Internal Doors - Flush Door</li>
-			<li>Safety grill with windows.</li>
+      		<li>M.S and Stone frames .</li>
+     		<li>Window shutter with tweak wood and paneled with section glass and safety grills.</li>
+			<li>Decorative Main Door other and door are flush doors.</li>
 	 </ul>
 	  </div>
-    </div>
-  </div>
-    <div class="card">
-    <div class="card-header" id="headingFour">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-          Electrical
-        </button>
-      </h5>
-    </div>
-    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
-      <div class="card-body">
-		        <ul class="text text-muted">
-		  			<li>Concealed copper wiring.</li>
-				</ul>
-      </div>
     </div>
   </div>
   <div class="card">
@@ -91,13 +75,31 @@
     <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
       <div class="card-body">
 		        <ul class="text text-muted">
-		  			<li>Granite Platform in Kitchen.</li>
-		  			<li>S.S. Kitchen Sink.</li>
-		  			<li>Color Glaz Tile upto Lintel Level.</li>
+		  			<li>Granite platform in kitchen.</li>
+		  			<li>S.S. kitchen sink.</li>
+		  			<li>Color glaz tile up to lintel level.</li>
 				</ul>
       </div>
     </div>
   </div>
+  
+    <div class="card">
+    <div class="card-header" id="headingFour">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+          Electrical
+        </button>
+      </h5>
+    </div>
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+      <div class="card-body">
+		        <ul class="text text-muted">
+		  			<li>Standard quality concealed copper wiring.</li>
+				</ul>
+      </div>
+    </div>
+  </div>
+  
   
   <div class="card">
     <div class="card-header" id="headingSix">
@@ -110,7 +112,7 @@
     <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
       <div class="card-body">
 		        <ul class="text text-muted">
-		  			<li>Concealed plumbing with best quality P.V.C pipe. </li>
+		  			<li>Concealed plumbing with best quality P.V.C & U.P.V.C pipe. </li>
 				</ul>
       </div>
     </div>

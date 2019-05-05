@@ -39,4 +39,9 @@ public class IndexController {
 	public String floorPlans(ModelMap model) {
 		return "floorPlans";
 	}
+	
+	//@RequestMapping("/gallery")
+	//public String gallery(ModelMap model) {
+	//	return "gallery";
+	//}
 }

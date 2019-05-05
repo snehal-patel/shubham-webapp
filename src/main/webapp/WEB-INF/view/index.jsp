@@ -122,7 +122,7 @@ i.circle:hover {
 			<div class="col-lg-4">
 				<a href="specifications" style="color:black;"><i class="fas fa-file-alt circle"></i></a>
 				<h2>Specification</h2>
-				<p>We provide best in class Plaster works, Flooring & tiling,
+				<p>We provide best in class Plaster works, Flooring & tiles,
 					Doors & windows, Plumbing & Sanitation, Kitchen.</p>
 				<!-- <p>
 					<a class="btn btn-secondary" href="#" role="button">View
@@ -133,7 +133,7 @@ i.circle:hover {
 			<div class="col-lg-4">
 				<a href="contact" style="color:black;"><i class="fas fa-map-marker-alt circle"></i></a>
 				<h2>Location</h2>
-				<p>Best Location in Kadi. Easy excess to school, airport, main
+				<p>Best Location in Kadi. Easy excess to school, main
 					road and market.</p>
 				<!-- <p>
 					<a class="btn btn-secondary" href="#" role="button">View

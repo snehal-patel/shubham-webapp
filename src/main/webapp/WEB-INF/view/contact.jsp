@@ -58,7 +58,8 @@
 
 				<address>
 					<i class="fas fa-building"></i> <strong>Shubham Bungalows</strong><br>
-					&nbsp;&nbsp;&nbsp;&nbsp;Somestreet 200 VW, Suite Village A.001<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;Near Prasang party plot,<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;Karan Nagar Road,<br>
 					&nbsp;&nbsp;&nbsp;&nbsp;Kadi, Gujarat.
 				</address>
 
@@ -67,7 +68,7 @@
 				</p>
 
 				<p>
-					<i class="fas fa-envelope"></i> email@domainname.com
+					<i class="fas fa-envelope"></i> navinpatel4811@gmail.com
 				</p>
 			</div>
 			<div class="col-md-8">
