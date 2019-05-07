@@ -59,7 +59,7 @@
       <ul class="text text-muted">
       		<li>M.S and Stone frames .</li>
      		<li>Window shutter with tweak wood and paneled with section glass and safety grills.</li>
-			<li>Decorative Main Door other and door are flush doors.</li>
+			<li>Decorative Main Door and other door are flush doors.</li>
 	 </ul>
 	  </div>
     </div>
