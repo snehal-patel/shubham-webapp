@@ -131,7 +131,7 @@ footer h5.widgetheading {
 
 				<p>
 					<i class="fas fa-phone"></i> +91 9825577356<br/>
-					<i class="fas fa-envelope"></i> navinpatel4811@gmail.com
+					<i class="fas fa-envelope"></i> shubhambungalow76@gmail.com
 				</p>
 <!--               <address>
 							<strong>Eterna company Inc.</strong><br>

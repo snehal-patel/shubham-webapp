@@ -68,7 +68,7 @@
 				</p>
 
 				<p>
-					<i class="fas fa-envelope"></i> navinpatel4811@gmail.com
+					<i class="fas fa-envelope"></i> shubhambungalow76@gmail.com
 				</p>
 			</div>
 			<div class="col-md-8">
