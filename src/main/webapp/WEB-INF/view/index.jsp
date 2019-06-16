@@ -231,6 +231,24 @@ i.circle:hover {
 			<hr class="featurette-divider">
 
 			<!-- /END THE FEATURETTES -->
+			
+			<div class="row featurette">
+          <div class="col-md-7 order-md-2">
+            <h2 class="featurette-heading">Rera Registered Project.</h2>
+            <p>Gujarat Rera Reg. No : PR/GJ/MEHSANA/KADI/Others/RAA04951/280219
+            <br>
+            Rera Website : https://gujrera.gujarat.gov.in
+            </p>
+            <p></p>
+          </div>
+          <div class="col-md-5 order-md-1">
+            <a href="https://gujrera.gujarat.gov.in" target="_blank"> 
+               <img class="featurette-image img-fluid mx-auto" src="/img/rera-logo.jpg" alt="Generic placeholder image">
+            </a>
+          </div>
+        </div>
+
+        <hr class="featurette-divider">
 
 		</div>
 		</main>
